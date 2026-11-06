@@ -1,4 +1,4 @@
-## Especificações Técnicas
+## Especificações Técnicas - single-port_RAM_32-8
 
 |       Parâmetro         |                  Especificação                    |
 | :---------------------: | :-----------------------------------------------: |
