@@ -35,4 +35,3 @@ mega_memory/
 ## Autoria
 
 Desenvolvido por **Luan Gabriel**
-Projeto Acadêmico **
