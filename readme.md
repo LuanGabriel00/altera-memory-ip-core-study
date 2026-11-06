@@ -1,4 +1,4 @@
-# IP Core de Memória RAM em FPGA (Terasic DE0 / Cyclone III)
+# IP Core de Memória RAM em FPGA (Altera - Teraisc)
 
 ![FPGA](https://img.shields.io/badge/FPGA-Altera%20Cyclone%20III-blue)
 ![Language](https://img.shields.io/badge/Language-VHDL-orange)
