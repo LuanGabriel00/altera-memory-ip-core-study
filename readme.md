@@ -5,7 +5,7 @@
 ![Tool](https://img.shields.io/badge/Tool-Quartus%20II%2013.1-green)
 
 ## Especificações Técnicas
-:-----------------------------------------------------------------------------:
+
 |       Parâmetro         |                  Especificação                    |
 | :---------------------: | :-----------------------------------------------: |
 | **Placa Alvo**          | Terasic DE0                                       |
@@ -16,8 +16,6 @@
 | **Frequência de Clock** | 50 MHz (Oscilador On-board `PIN_G21`)             |
 | **Interface JTAG**      | Habilitada (Instance ID: `Luan`)                  |
 | **Ferramentas**         | Quartus II 13.1, ModelSim-Altera                  |
-:-----------------------------------------------------------------------------:
-
 
 ## Estrutura do Repositório
 mega_memory/
