@@ -18,6 +18,7 @@
 | **Ferramentas**         | Quartus II 13.1, ModelSim-Altera                  |
 
 ## Estrutura do Repositório
+```text
 mega_memory/
 ├── .gitignore
 ├── LICENSE
@@ -31,7 +32,7 @@ mega_memory/
 │   └── mega_memory.vhd
 └── sim/                   
     └── tb_RAM_TopLevel.vhl
-
+```
 ## Autoria
 
 Desenvolvido por **Luan Gabriel**
