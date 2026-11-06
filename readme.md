@@ -6,7 +6,7 @@
 
 ## Estrutura do Repositório
 ```text
-mega_memory/
+altera-memory-ip-core-study/
 ├── .gitattributes
 ├── LICENSE
 ├── README.md
