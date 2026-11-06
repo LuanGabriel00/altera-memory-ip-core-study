@@ -47,6 +47,6 @@ mega_memory/
 ```
 ## Autoria
 
-Desenvolvido por **Luan Gabriel**
+Desenvolvido por **Luan Gabriel** <br>
 Projeto Acadêmico **IP Cores para FPGAs - Jundia**
 
